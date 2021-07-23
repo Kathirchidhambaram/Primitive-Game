@@ -152,5 +152,10 @@ h1{
   .main{
     margin-top: 25rem;
   }
+  .range{
+  display: block;
+    top: 15vh;
+    width: 100%;
+    text-align: center;}
 
 } 
