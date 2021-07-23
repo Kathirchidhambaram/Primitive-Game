@@ -133,7 +133,7 @@ hr{
   cursor: pointer;
 }
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 600px) {
 
 h1{
   top: 9rem ;
